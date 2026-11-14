@@ -1,0 +1,32 @@
+{
+  "name": "antonio-coelho-ai-stuff",
+  "owner": {
+    "name": "António Coelho",
+    "url": "https://github.com/Antniom"
+  },
+  "description": "António Coelho's Claude Code plugins, skills and MCP servers for CAD and mechanical engineering.",
+  "plugins": [
+    {
+      "name": "solidcadworks",
+      "displayName": "SolidCADWorks",
+      "source": {
+        "source": "github",
+        "repo": "Antniom/Solidworks-MCP"
+      },
+      "description": "Model parts, build assemblies, make drawings and run stress analysis in SolidWorks from a conversation, with an interactive studio for adjusting dimensions.",
+      "category": "productivity",
+      "tags": ["cad", "solidworks", "engineering", "fea", "mcp"]
+    },
+    {
+      "name": "inventor-mcp",
+      "displayName": "Inventor MCP",
+      "source": {
+        "source": "github",
+        "repo": "Antniom/Inventor-PluginV2"
+      },
+      "description": "Model parts, assemblies and mechanisms in Autodesk Inventor 2026/2027 on Windows. It also learns your company's modeling, file-naming and drawing conventions over time.",
+      "category": "productivity",
+      "tags": ["cad", "autodesk-inventor", "engineering", "ilogic", "mcp"]
+    }
+  ]
+}
