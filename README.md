@@ -7,7 +7,7 @@ A Claude Code plugin marketplace for my CAD and mechanical-engineering plugins, 
 In Claude Code:
 
 ```
-/plugin marketplace add Antniom/Antonio_Coelho_AI_stuff
+/plugin marketplace add Antniom/Antonio_Coelho_AI_Stuff
 /plugin install solidcadworks@antonio-coelho-ai-stuff
 /plugin install inventor-mcp@antonio-coelho-ai-stuff
 ```
