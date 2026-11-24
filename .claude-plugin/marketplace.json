@@ -10,8 +10,8 @@
       "name": "solidcadworks",
       "displayName": "SolidCADWorks",
       "source": {
-        "source": "url",
-        "url": "https://github.com/Antniom/Solidworks-MCP.git"
+        "source": "github",
+        "repo": "Antniom/Solidworks-MCP"
       },
       "description": "Model parts, build assemblies, make drawings and run stress analysis in SolidWorks from a conversation, with an interactive studio for adjusting dimensions.",
       "category": "productivity",
@@ -21,8 +21,8 @@
       "name": "inventor-mcp",
       "displayName": "Inventor MCP",
       "source": {
-        "source": "url",
-        "url": "https://github.com/Antniom/Inventor-PluginV2.git"
+        "source": "github",
+        "repo": "Antniom/Inventor-PluginV2"
       },
       "description": "Model parts, assemblies and mechanisms in Autodesk Inventor 2026/2027 on Windows. It also learns your company's modeling, file-naming and drawing conventions over time.",
       "category": "productivity",
